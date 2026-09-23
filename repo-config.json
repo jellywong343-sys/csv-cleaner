@@ -1,0 +1,11 @@
+{
+  "name": "csv-cleaner",
+  "description": "Trim cells, remove empty rows, and deduplicate CSV data using only the Python standard library.",
+  "topics": [
+    "python",
+    "cli",
+    "csv",
+    "data-cleaning",
+    "automation"
+  ]
+}
